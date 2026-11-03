@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kqF2kdy/20240826-230650.png?ref=skym3u.dev" group-title="General",DEEPTO TV HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zPFbF67/20240826-230349.png?ref=skym3u.dev" group-title="General",EKUSHEY TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8#skym3u.dev

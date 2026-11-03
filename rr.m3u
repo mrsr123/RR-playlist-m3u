@@ -146,44 +146,4 @@ http://195.23.211.179:1935/kmusic/smil:kmusic.smil/chunklist_w359984427_b413000_
 https://w1.manasat.com/ktv/smil:ktv.smil/chunklist_w972413923_b413000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Moconomy (1080p)
 https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/69ce9e98-4ece-4951-b8fb-f7aa74a1c577/1.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Porto Canal (720p)
-https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",TV Maná 1 (1080p)
-https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w265415890_b413000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",TV Maná 2 (1080p)
-https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w1269763042_b3048000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",TV Maná Brasil (1080p)
-https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/chunklist_w690030179_b3048000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",TV Maná English (1080p)
-https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/chunklist_w111329340_b1548000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",TV Maná Español (1080p)
-https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/chunklist_w17991516_b3048000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",TV Maná Russkiy (1080p)
-https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/chunklist_w2008428359_b3048000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",World Poker Tour (1080p)
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",World Poker Tour (1080p)
-https://go.skym3u.dev/live/873b8/761200426e1ad0719256dbe9af27a699e62e70f38e347065c2a5a89532a7ff89ba50bc077ef8cfb1f8e29d1aac5b7ea2ad8c3a875119b370eb1a65385b8b751cab4b977bf1982c519e304a941a54405bc007532ff91b1bba3be03d8a08a8e2070ec3cc6ca72ad8b144441cab0d43.m3u8?s=6acf&id=bsyy.m3u
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",8 La Marina TV (576p)
-https://streaming005.gestec-video.com/hls/canal24.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Afortunadas TV (720p)
-https://cloudvideo.servers10.com:8081/8108/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Cetelmón TV (404p)
-http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Ciudades Del Ocio TV (720p)
-https://cloudvideo.servers10.com:8081/8024/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Elche 7 TV (576p)
-https://elche7tv.gestec-video.com/hls/canal2.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Estepona Televisión (720p)
-https://cloudvideo.servers10.com:8081/8022/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Mijas 3.40TV (720p)
-https://streaming004.gestec-video.com/hls/MIJAS.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Negocios TV (1080p)
-https://streaming013.gestec-video.com/hls/negociostv.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",NORTEvisión (1080p)
-http://amaru.dyndns.org:8870/0.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Onda 15 TV (224p)
-https://cloudvideo.servers10.com:8081/8034/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Onda Valencia (720p)
-https://cloudvideo.servers10.com:8081/8116/tracks-v1a1/mono.m3u8
 

@@ -186,37 +186,4 @@ http://amaru.dyndns.org:8870/0.m3u8#skym3u.dev
 https://cloudvideo.servers10.com:8081/8034/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Onda Valencia (720p)
 https://cloudvideo.servers10.com:8081/8116/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Radio Televisión Mogán (1080p)
-https://cloudvideo.servers10.com:8081/8028/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Rakuten Viki (720p)
-https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/048a962c-e84b-4a0e-aeb3-98376f4b9953/2.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Real Madrid TV (404p)
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Ribera TV (576p)
-https://common01.todostreaming.es/live/ribera-livestream.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Sol Música (720p)
-https://d2glyu450vvghm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/9f03fcfb-dcdd-4fc3-9198-bcbadabcc165/3.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Tarotéame (576p)
-https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",TV Artequatre (576p)
-https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",30A Golf Kingdom
-https://30a-tv.com/feeds/720p/53.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",ACCDN (1080p)
-https://raycom-accdn-firetv.amagi.tv/240p-cc/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",ACI Sport TV (1080p)
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8?session=jQUN3bv6oEX9nDipzzH94k
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",AS3 Sport TV (1080p)
-https://streamtv.as3sport.online:3394/hybrid/play.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",ATG Live (720p)
-https://streamtv.as3sport.online:3394/hybrid/play.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",beIN Sports XTRA en Espanol (1080p)
-https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Cricket Gold
-https://d382r3rgbxdixq.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/7e9f8d95-8716-4043-80be-b909e906f96d/3.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Cricket Gold (1080p)
-https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418/variant/22100031.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",DD Sports SD (1080p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_7.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",DraftKings Network (1080p)
-https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network360P.m3u8
+
